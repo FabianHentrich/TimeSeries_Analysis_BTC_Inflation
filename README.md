@@ -85,3 +85,6 @@ This analysis examines three distinct timeframes to test for robustness and cons
 These findings imply that Bitcoin may not serve as an effective hedge against inflation.
 This consistent finding reinforces the conclusion of the original study by Blau et al. (2021), but extends the analysis to additional periods for enhanced robustness.
 
+---
+## Disclaimer
+This project is for demonstration and educational purposes only. The results should not be interpreted as professional investment advice.
